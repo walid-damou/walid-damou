@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Walid DAMOU</h1>
 <h3 align="center">Data Science & Data Engineering Aficionado</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
+<img align="centre" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walid-damou&label=Profile%20views&color=0e75b6&style=flat" alt="walid-damou" /> </p>
 
