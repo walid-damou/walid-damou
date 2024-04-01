@@ -43,10 +43,6 @@
                 <img align="center" src="https://github-readme-stats.vercel.app/api?username=walid-damou&show_icons=true&locale=en" alt="walid-damou" />
                 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walid-damou&" alt="walid-damou" />
             </div>
-            <div>
-                <img align="center" src="https://github-readme-stats.vercel.app/api?username=walid-damou&show_icons=true&locale=en" alt="walid-damou" />
-                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walid-damou&" alt="walid-damou" />
-            </div>
         </td>
     </tr>
 </table>
