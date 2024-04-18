@@ -1,7 +1,7 @@
 <!--horizontal divider(gradiant)-->
 <div align="center">
     <h1 style="display: inline-block">Hi 👋, I'm Walid DAMOU</h1>
-    <h3 align="center">Data Aficionado</h3>
+    <h3 align="center">Computer Science Aficionado</h3>
     <img src="https://miro.medium.com/v2/resize:fit:1358/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="320" height="320" frameBorder="0">
     <p> <img src="https://komarev.com/ghpvc/?username=walid-damou&label=Profile%20views&color=0e75b6&style=flat" alt="walid-damou" /> </p>
     
