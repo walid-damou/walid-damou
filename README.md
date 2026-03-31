@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-    - 🔭 I’m currently working on <a href="https://github.com/walid-damou/Dice_delice">Airbnb Project with Snowflake</a>
+    - 🔭 I’m currently working on <a href="https://github.com/walid-damou/Airbnb_DE">Airbnb Project with Snowflake</a>
 </div>
 
 <div align="center">
